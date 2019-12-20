@@ -1,0 +1,17 @@
+{
+  "name": "redux-pattern-basic",
+  "version": "1.0.0",
+  "author": "psalguerodev <patrick.salguero.avalos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node app",
+    "start:redux": "ts-node app.redux"
+  },
+  "devDependencies": {
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
